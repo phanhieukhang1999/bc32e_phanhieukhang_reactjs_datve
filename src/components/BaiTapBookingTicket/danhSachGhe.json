@@ -28,8 +28,8 @@
         {"soGhe":"A6","gia":75000,"daDat":false},
         {"soGhe":"A7","gia":75000,"daDat":false},
         {"soGhe":"A8","gia":75000,"daDat":false},
-        {"soGhe":"A9","gia":75000,"daDat":false},
-        {"soGhe":"A10","gia":75000,"daDat":false},
+        {"soGhe":"A9","gia":75000,"daDat":true},
+        {"soGhe":"A10","gia":75000,"daDat":true},
         {"soGhe":"A11","gia":75000,"daDat":false},
         {"soGhe":"A12","gia":75000,"daDat":false}
       ] 
@@ -40,8 +40,8 @@
         {"soGhe":"B1","gia":75000,"daDat":false},
         {"soGhe":"B2","gia":75000,"daDat":false},
         {"soGhe":"B3","gia":75000,"daDat":false},
-        {"soGhe":"B4","gia":75000,"daDat":false},
-        {"soGhe":"B5","gia":75000,"daDat":false},
+        {"soGhe":"B4","gia":75000,"daDat":true},
+        {"soGhe":"B5","gia":75000,"daDat":true},
         {"soGhe":"B6","gia":75000,"daDat":false},
         {"soGhe":"B7","gia":75000,"daDat":false},
         {"soGhe":"B8","gia":75000,"daDat":false},
